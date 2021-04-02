@@ -123,3 +123,11 @@ img{
         text-align: center;
     }
 }
+
+.nm{
+    text-align: center;
+    padding: 10px 10px ;
+    float: left;
+    width: 100%;   
+}
+
